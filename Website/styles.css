@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    background-color: #645e5e; /* Light Gray Background */
+    font-family: 'Arial', sans-serif; /* Professional Sans-serif Font */
+    margin: 0;
+    padding: 20px;
+    color: #333; /* Dark Gray Text Color for good contrast */
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif; /* Elegant Serif Font for Headings */
+    color: #444; /* Slightly lighter gray for headings */
+}
+
+a {
+    color: #007BFF; /* Professional blue color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover for better UX */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FFFFFF; /* White Background for content area */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for a polished look */
+}
