@@ -1,0 +1,817 @@
+,id,full_name,age,gender,device_type,ad_position,browsing_history,time_of_day,click
+17,188,User188,56.0,Female,Tablet,Bottom,News,Morning,1
+25,4890,User4890,43.0,Male,Tablet,Bottom,Education,Afternoon,1
+33,4985,User4985,37.0,Male,Mobile,Top,News,Evening,0
+52,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+102,8201,User8201,59.0,Female,Desktop,Bottom,Social Media,Morning,0
+122,5484,User5484,64.0,Female,Mobile,Side,Education,Morning,0
+135,5703,User5703,55.0,Female,Tablet,Side,Shopping,Night,0
+140,820,User820,39.0,Non-Binary,Mobile,Side,Social Media,Afternoon,0
+146,4630,User4630,19.0,Non-Binary,Tablet,Side,Shopping,Evening,0
+154,118,User118,43.0,Female,Tablet,Bottom,Social Media,Night,0
+158,3007,User3007,42.0,Male,Desktop,Top,Shopping,Night,0
+170,3062,User3062,34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+185,2757,User2757,35.0,Female,Mobile,Bottom,Social Media,Night,0
+204,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+210,9748,User9748,47.0,Non-Binary,Tablet,Bottom,Entertainment,Afternoon,0
+231,4625,User4625,33.0,Non-Binary,Mobile,Top,News,Morning,0
+232,8459,User8459,38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+244,6167,User6167,20.0,Male,Mobile,Side,Shopping,Night,1
+246,6919,User6919,45.0,Non-Binary,Desktop,Top,Social Media,Night,0
+275,7678,User7678,53.0,Female,Desktop,Top,Social Media,Night,0
+284,8115,User8115,20.0,Female,Mobile,Top,Social Media,Afternoon,1
+289,1214,User1214,26.0,Female,Mobile,Bottom,News,Evening,1
+292,3236,User3236,56.0,Female,Mobile,Bottom,Education,Morning,1
+295,6576,User6576,62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+298,5501,User5501,28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+317,5258,User5258,50.0,Non-Binary,Desktop,Side,Education,Night,0
+324,5890,User5890,56.0,Female,Mobile,Bottom,News,Night,1
+361,1099,User1099,36.0,Male,Tablet,Top,Shopping,Night,0
+364,2964,User2964,40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+365,9807,User9807,35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+367,6883,User6883,32.0,Male,Desktop,Side,News,Afternoon,0
+368,1470,User1470,25.0,Male,Tablet,Top,Social Media,Evening,0
+397,5403,User5403,61.0,Male,Desktop,Top,Education,Night,0
+420,7438,User7438,53.0,Non-Binary,Mobile,Side,News,Morning,1
+423,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+428,5338,User5338,51.0,Male,Mobile,Top,Social Media,Morning,1
+436,346,User346,29.0,Male,Mobile,Top,News,Evening,0
+437,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+460,5766,User5766,63.0,Male,Desktop,Side,Social Media,Evening,1
+468,7438,User7438,53.0,Non-Binary,Mobile,Side,News,Morning,1
+474,6811,User6811,24.0,Male,Mobile,Bottom,Education,Evening,1
+489,7748,User7748,57.0,Female,Desktop,Top,News,Night,0
+490,5922,User5922,62.0,Female,Mobile,Side,Entertainment,Afternoon,0
+506,9695,User9695,26.0,Male,Desktop,Side,Entertainment,Night,0
+527,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+541,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+559,4559,User4559,30.0,Female,Desktop,Bottom,News,Night,0
+571,8459,User8459,38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+575,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+626,1914,User1914,42.0,Male,Tablet,Bottom,Shopping,Night,1
+668,6237,User6237,32.0,Non-Binary,Mobile,Top,News,Morning,1
+691,7511,User7511,31.0,Female,Desktop,Side,Shopping,Night,1
+702,1945,User1945,20.0,Female,Tablet,Side,Entertainment,Night,1
+706,7349,User7349,47.0,Female,Tablet,Side,Entertainment,Afternoon,0
+722,270,User270,40.0,Non-Binary,Desktop,Side,News,Evening,0
+726,277,User277,59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+753,4957,User4957,58.0,Male,Desktop,Bottom,Social Media,Evening,1
+772,5891,User5891,24.0,Non-Binary,Tablet,Top,Education,Evening,0
+775,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+778,375,User375,26.0,Non-Binary,Mobile,Top,Social Media,Evening,1
+782,7973,User7973,28.0,Female,Mobile,Bottom,Shopping,Morning,1
+799,8149,User8149,42.0,Non-Binary,Mobile,Side,Education,Morning,0
+801,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+814,647,User647,53.0,Non-Binary,Desktop,Side,Shopping,Morning,0
+827,9807,User9807,35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+828,2934,User2934,26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+834,1975,User1975,30.0,Female,Mobile,Top,Social Media,Morning,1
+839,2876,User2876,23.0,Non-Binary,Tablet,Top,Education,Morning,1
+841,5894,User5894,57.0,Male,Desktop,Side,Social Media,Evening,0
+857,9260,User9260,37.0,Female,Desktop,Top,Education,Afternoon,0
+864,1945,User1945,20.0,Female,Tablet,Side,Entertainment,Night,1
+875,3335,User3335,24.0,Male,Mobile,Top,Entertainment,Night,1
+907,8253,User8253,57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+913,7229,User7229,43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+919,2337,User2337,40.0,Male,Desktop,Top,Entertainment,Evening,1
+942,5329,User5329,54.0,Male,Tablet,Side,Education,Evening,1
+946,5029,User5029,25.0,Female,Mobile,Top,News,Night,0
+955,2934,User2934,26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+984,7241,User7241,34.0,Female,Tablet,Side,News,Afternoon,0
+989,1910,User1910,63.0,Male,Desktop,Side,Social Media,Night,1
+992,6167,User6167,20.0,Male,Mobile,Side,Shopping,Night,1
+993,2928,User2928,43.0,Non-Binary,Desktop,Side,News,Evening,0
+998,1214,User1214,26.0,Female,Mobile,Bottom,News,Evening,1
+999,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+1019,2326,User2326,50.0,Female,Tablet,Side,Entertainment,Morning,0
+1040,6288,User6288,61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+1069,2964,User2964,40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+1115,6115,User6115,58.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+1117,4976,User4976,34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+1132,7376,User7376,21.0,Female,Mobile,Side,News,Morning,1
+1137,6724,User6724,37.0,Female,Desktop,Top,Entertainment,Evening,1
+1142,8549,User8549,41.0,Male,Tablet,Top,Shopping,Night,0
+1146,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+1180,6350,User6350,31.0,Male,Mobile,Bottom,Social Media,Afternoon,0
+1195,6679,User6679,26.0,Male,Tablet,Bottom,Entertainment,Night,1
+1199,2021,User2021,41.0,Male,Mobile,Bottom,Social Media,Night,1
+1218,3243,User3243,49.0,Female,Mobile,Bottom,News,Afternoon,0
+1221,6401,User6401,45.0,Female,Mobile,Side,Social Media,Morning,1
+1223,5346,User5346,30.0,Non-Binary,Tablet,Top,News,Morning,1
+1230,2485,User2485,57.0,Non-Binary,Mobile,Bottom,News,Night,1
+1246,8936,User8936,53.0,Male,Mobile,Top,Education,Afternoon,0
+1255,2513,User2513,50.0,Male,Tablet,Top,Social Media,Afternoon,0
+1261,389,User389,31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+1265,3604,User3604,49.0,Male,Tablet,Bottom,News,Morning,1
+1281,1253,User1253,36.0,Female,Desktop,Bottom,Shopping,Morning,1
+1301,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+1312,3144,User3144,24.0,Male,Desktop,Side,Shopping,Morning,1
+1318,6237,User6237,32.0,Non-Binary,Mobile,Top,News,Morning,1
+1323,4945,User4945,31.0,Male,Tablet,Top,Social Media,Morning,1
+1350,7464,User7464,52.0,Non-Binary,Tablet,Bottom,News,Afternoon,0
+1353,9589,User9589,54.0,Non-Binary,Tablet,Bottom,Shopping,Night,0
+1370,4756,User4756,59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+1375,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+1380,5501,User5501,28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+1391,3330,User3330,49.0,Male,Desktop,Top,News,Afternoon,1
+1408,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+1415,5288,User5288,43.0,Female,Mobile,Top,News,Evening,0
+1424,3236,User3236,56.0,Female,Mobile,Bottom,Education,Morning,1
+1428,2337,User2337,40.0,Male,Desktop,Top,Entertainment,Evening,1
+1432,2485,User2485,57.0,Non-Binary,Mobile,Bottom,News,Night,1
+1435,1762,User1762,41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+1447,4756,User4756,59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+1456,1658,User1658,27.0,Female,Mobile,Side,News,Night,0
+1464,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+1507,2384,User2384,37.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+1513,1283,User1283,57.0,Male,Mobile,Top,Social Media,Afternoon,0
+1525,4945,User4945,31.0,Male,Tablet,Top,Social Media,Morning,1
+1548,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+1553,1908,User1908,26.0,Male,Mobile,Bottom,Education,Evening,1
+1554,3126,User3126,18.0,Female,Mobile,Bottom,Education,Night,0
+1569,1420,User1420,62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+1573,7491,User7491,28.0,Female,Mobile,Bottom,Education,Afternoon,0
+1576,1420,User1420,62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+1589,7674,User7674,43.0,Female,Tablet,Bottom,News,Afternoon,1
+1590,3044,User3044,34.0,Male,Desktop,Top,News,Night,1
+1595,4694,User4694,29.0,Female,Mobile,Top,Entertainment,Afternoon,0
+1606,1586,User1586,38.0,Non-Binary,Desktop,Top,Shopping,Night,1
+1611,9990,User9990,25.0,Male,Desktop,Side,Education,Night,1
+1616,7908,User7908,34.0,Male,Mobile,Side,Social Media,Night,0
+1622,6471,User6471,36.0,Female,Desktop,Top,Education,Evening,0
+1656,5055,User5055,45.0,Male,Desktop,Top,Education,Morning,1
+1668,8326,User8326,23.0,Female,Desktop,Bottom,Entertainment,Evening,1
+1671,6576,User6576,62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+1678,7973,User7973,28.0,Female,Mobile,Bottom,Shopping,Morning,1
+1690,5796,User5796,46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+1696,8255,User8255,22.0,Female,Mobile,Side,Entertainment,Evening,0
+1698,2174,User2174,36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+1702,1589,User1589,60.0,Female,Mobile,Side,Shopping,Afternoon,0
+1713,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+1768,4166,User4166,33.0,Male,Tablet,Top,News,Night,0
+1770,4957,User4957,58.0,Male,Desktop,Bottom,Social Media,Evening,1
+1789,518,User518,29.0,Male,Tablet,Bottom,Shopping,Morning,1
+1794,8789,User8789,44.0,Female,Desktop,Top,Entertainment,Evening,1
+1831,23,User23,30.0,Male,Mobile,Side,Shopping,Morning,0
+1837,5912,User5912,41.0,Non-Binary,Mobile,Side,Education,Night,1
+1840,7229,User7229,43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+1841,4363,User4363,18.0,Female,Mobile,Bottom,Entertainment,Night,0
+1873,5041,User5041,59.0,Male,Desktop,Side,Shopping,Evening,0
+1894,1253,User1253,36.0,Female,Desktop,Bottom,Shopping,Morning,1
+1917,5707,User5707,34.0,Non-Binary,Mobile,Side,Social Media,Afternoon,0
+1940,8789,User8789,44.0,Female,Desktop,Top,Entertainment,Evening,1
+1946,8115,User8115,20.0,Female,Mobile,Top,Social Media,Afternoon,1
+1947,8373,User8373,29.0,Male,Desktop,Side,Shopping,Afternoon,1
+1955,4114,User4114,38.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+1957,5346,User5346,30.0,Non-Binary,Tablet,Top,News,Morning,1
+1972,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+1978,7720,User7720,46.0,Female,Tablet,Top,Social Media,Morning,0
+1992,1762,User1762,41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+2003,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+2006,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+2010,2542,User2542,58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+2021,7376,User7376,21.0,Female,Mobile,Side,News,Morning,1
+2055,9753,User9753,46.0,Male,Tablet,Top,Entertainment,Night,1
+2062,6724,User6724,37.0,Female,Desktop,Top,Entertainment,Evening,1
+2076,9418,User9418,20.0,Male,Tablet,Side,News,Night,1
+2079,985,User985,46.0,Male,Desktop,Top,Shopping,Afternoon,0
+2089,1653,User1653,37.0,Non-Binary,Mobile,Top,News,Evening,0
+2091,6576,User6576,62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+2094,1935,User1935,30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+2107,9511,User9511,37.0,Female,Desktop,Side,News,Evening,0
+2108,2425,User2425,42.0,Male,Tablet,Top,Entertainment,Morning,0
+2146,5198,User5198,47.0,Male,Desktop,Bottom,Education,Night,1
+2154,1635,User1635,54.0,Female,Tablet,Top,News,Evening,1
+2174,3330,User3330,49.0,Male,Desktop,Top,News,Afternoon,1
+2178,5105,User5105,64.0,Male,Tablet,Top,Entertainment,Morning,0
+2199,6842,User6842,37.0,Female,Desktop,Side,Entertainment,Afternoon,0
+2202,2174,User2174,36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+2210,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+2213,8965,User8965,25.0,Female,Mobile,Bottom,Social Media,Evening,1
+2235,1229,User1229,22.0,Female,Desktop,Bottom,Entertainment,Morning,0
+2241,7800,User7800,53.0,Non-Binary,Desktop,Bottom,News,Night,0
+2248,4956,User4956,42.0,Male,Mobile,Bottom,Social Media,Morning,0
+2261,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+2298,2964,User2964,40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+2314,3271,User3271,23.0,Male,Desktop,Top,Entertainment,Afternoon,0
+2332,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+2346,6122,User6122,40.0,Non-Binary,Mobile,Side,News,Night,0
+2351,1638,User1638,53.0,Non-Binary,Tablet,Bottom,Education,Evening,0
+2358,6438,User6438,53.0,Non-Binary,Tablet,Top,Shopping,Night,1
+2389,8606,User8606,28.0,Male,Mobile,Side,News,Night,0
+2395,3330,User3330,49.0,Male,Desktop,Top,News,Afternoon,1
+2399,4938,User4938,28.0,Male,Desktop,Side,Social Media,Evening,1
+2406,2076,User2076,18.0,Female,Mobile,Bottom,News,Morning,0
+2438,1910,User1910,63.0,Male,Desktop,Side,Social Media,Night,1
+2441,277,User277,59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+2462,8994,User8994,34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+2464,518,User518,29.0,Male,Tablet,Bottom,Shopping,Morning,1
+2466,891,User891,43.0,Male,Tablet,Bottom,Social Media,Morning,0
+2487,1529,User1529,20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+2522,316,User316,42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+2561,4976,User4976,34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+2562,6536,User6536,60.0,Male,Desktop,Side,Education,Night,0
+2577,6519,User6519,48.0,Female,Desktop,Top,News,Afternoon,0
+2597,316,User316,42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+2601,7999,User7999,24.0,Female,Mobile,Top,News,Afternoon,0
+2609,188,User188,56.0,Female,Tablet,Bottom,News,Morning,1
+2625,1635,User1635,54.0,Female,Tablet,Top,News,Evening,1
+2635,5005,User5005,49.0,Male,Desktop,Top,Shopping,Morning,1
+2652,4229,User4229,23.0,Male,Mobile,Side,Education,Afternoon,0
+2654,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+2659,2463,User2463,45.0,Female,Mobile,Side,Social Media,Evening,0
+2691,1214,User1214,26.0,Female,Mobile,Bottom,News,Evening,1
+2693,6865,User6865,38.0,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,0
+2695,8484,User8484,53.0,Female,Desktop,Side,News,Afternoon,0
+2702,5005,User5005,49.0,Male,Desktop,Top,Shopping,Morning,1
+2705,6866,User6866,52.0,Non-Binary,Desktop,Top,Social Media,Evening,0
+2706,8251,User8251,49.0,Female,Tablet,Bottom,News,Evening,0
+2745,3345,User3345,39.0,Male,Desktop,Side,Social Media,Night,1
+2756,1704,User1704,61.0,Female,Tablet,Bottom,Shopping,Evening,1
+2764,218,User218,62.0,Female,Tablet,Top,News,Evening,0
+2769,6990,User6990,21.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,0
+2776,6178,User6178,35.0,Female,Tablet,Side,Shopping,Evening,0
+2779,5796,User5796,46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+2807,6679,User6679,26.0,Male,Tablet,Bottom,Entertainment,Night,1
+2860,7277,User7277,21.0,Female,Tablet,Top,Social Media,Afternoon,0
+2877,1762,User1762,41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+2905,2934,User2934,26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+2922,9064,User9064,41.0,Female,Mobile,Top,Entertainment,Night,1
+2944,1635,User1635,54.0,Female,Tablet,Top,News,Evening,1
+2950,5268,User5268,50.0,Female,Mobile,Top,Shopping,Afternoon,0
+2967,3144,User3144,24.0,Male,Desktop,Side,Shopping,Morning,1
+2969,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+2975,2021,User2021,41.0,Male,Mobile,Bottom,Social Media,Night,1
+2976,277,User277,59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+2982,5194,User5194,53.0,Male,Mobile,Top,News,Afternoon,1
+2994,7268,User7268,28.0,Female,Desktop,Bottom,News,Evening,1
+3007,373,User373,34.0,Female,Mobile,Top,Education,Evening,1
+3015,3375,User3375,52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+3016,8097,User8097,30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+3024,2021,User2021,41.0,Male,Mobile,Bottom,Social Media,Night,1
+3033,6401,User6401,45.0,Female,Mobile,Side,Social Media,Morning,1
+3057,6401,User6401,45.0,Female,Mobile,Side,Social Media,Morning,1
+3066,1647,User1647,62.0,Male,Desktop,Bottom,Social Media,Night,0
+3095,806,User806,37.0,Male,Desktop,Top,Social Media,Morning,0
+3103,8494,User8494,59.0,Non-Binary,Tablet,Bottom,News,Morning,0
+3108,7268,User7268,28.0,Female,Desktop,Bottom,News,Evening,1
+3112,4348,User4348,62.0,Female,Desktop,Top,Shopping,Afternoon,1
+3126,9683,User9683,56.0,Female,Desktop,Side,Shopping,Afternoon,0
+3132,5213,User5213,46.0,Female,Tablet,Side,Social Media,Afternoon,0
+3139,8097,User8097,30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+3152,2913,User2913,57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+3154,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+3157,4957,User4957,58.0,Male,Desktop,Bottom,Social Media,Evening,1
+3164,5329,User5329,54.0,Male,Tablet,Side,Education,Evening,1
+3180,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+3200,1253,User1253,36.0,Female,Desktop,Bottom,Shopping,Morning,1
+3215,905,User905,40.0,Female,Tablet,Side,Shopping,Afternoon,0
+3216,4029,User4029,21.0,Female,Desktop,Side,News,Afternoon,1
+3247,9550,User9550,58.0,Non-Binary,Desktop,Top,Education,Afternoon,1
+3272,2167,User2167,64.0,Non-Binary,Mobile,Bottom,Social Media,Evening,0
+3276,389,User389,31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+3282,5766,User5766,63.0,Male,Desktop,Side,Social Media,Evening,1
+3283,5418,User5418,34.0,Male,Mobile,Top,Entertainment,Evening,1
+3302,5772,User5772,52.0,Male,Desktop,Bottom,News,Morning,0
+3316,6129,User6129,36.0,Male,Tablet,Bottom,Shopping,Evening,1
+3336,1153,User1153,49.0,Female,Tablet,Side,Shopping,Evening,0
+3338,907,User907,47.0,Male,Desktop,Side,News,Night,0
+3342,1255,User1255,23.0,Male,Tablet,Side,Social Media,Morning,0
+3358,2602,User2602,61.0,Female,Desktop,Side,Shopping,Afternoon,1
+3371,2021,User2021,41.0,Male,Mobile,Bottom,Social Media,Night,1
+3377,9272,User9272,50.0,Female,Tablet,Side,Social Media,Morning,0
+3381,9418,User9418,20.0,Male,Tablet,Side,News,Night,1
+3395,6679,User6679,26.0,Male,Tablet,Bottom,Entertainment,Night,1
+3430,4034,User4034,43.0,Female,Desktop,Top,Shopping,Night,1
+3439,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+3449,2239,User2239,25.0,Female,Tablet,Bottom,Education,Morning,1
+3464,3044,User3044,34.0,Male,Desktop,Top,News,Night,1
+3466,8954,User8954,62.0,Non-Binary,Tablet,Top,Entertainment,Evening,0
+3498,8965,User8965,25.0,Female,Mobile,Bottom,Social Media,Evening,1
+3509,1908,User1908,26.0,Male,Mobile,Bottom,Education,Evening,1
+3526,8486,User8486,62.0,Male,Mobile,Top,Education,Afternoon,0
+3532,5198,User5198,47.0,Male,Desktop,Bottom,Education,Night,1
+3569,5194,User5194,53.0,Male,Mobile,Top,News,Afternoon,1
+3578,3002,User3002,52.0,Male,Mobile,Bottom,News,Afternoon,0
+3588,1692,User1692,49.0,Non-Binary,Desktop,Top,Entertainment,Night,0
+3593,7930,User7930,35.0,Female,Mobile,Bottom,Social Media,Evening,0
+3599,1935,User1935,30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+3617,9753,User9753,46.0,Male,Tablet,Top,Entertainment,Night,1
+3637,5418,User5418,34.0,Male,Mobile,Top,Entertainment,Evening,1
+3638,8863,User8863,54.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+3653,6299,User6299,38.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+3658,4957,User4957,58.0,Male,Desktop,Bottom,Social Media,Evening,1
+3660,7688,User7688,57.0,Male,Mobile,Top,News,Evening,1
+3671,7574,User7574,35.0,Male,Desktop,Side,Education,Evening,0
+3682,5082,User5082,44.0,Female,Mobile,Top,Shopping,Afternoon,1
+3702,2006,User2006,27.0,Non-Binary,Desktop,Bottom,Entertainment,Evening,0
+3711,2441,User2441,49.0,Male,Mobile,Top,Social Media,Morning,0
+3714,7438,User7438,53.0,Non-Binary,Mobile,Side,News,Morning,1
+3717,7670,User7670,54.0,Female,Tablet,Top,Education,Night,1
+3738,7211,User7211,36.0,Female,Tablet,Bottom,Education,Morning,0
+3740,8373,User8373,29.0,Male,Desktop,Side,Shopping,Afternoon,1
+3742,5890,User5890,56.0,Female,Mobile,Bottom,News,Night,1
+3746,3144,User3144,24.0,Male,Desktop,Side,Shopping,Morning,1
+3751,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+3752,2142,User2142,34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+3798,6434,User6434,36.0,Male,Mobile,Top,Entertainment,Night,0
+3801,5686,User5686,35.0,Male,Tablet,Bottom,Shopping,Evening,0
+3803,5979,User5979,54.0,Male,Desktop,Bottom,Education,Night,0
+3808,10000,User10000,33.0,Female,Desktop,Bottom,News,Afternoon,0
+3822,1938,User1938,27.0,Male,Mobile,Bottom,News,Evening,0
+3824,6690,User6690,42.0,Male,Mobile,Top,News,Morning,0
+3850,6401,User6401,45.0,Female,Mobile,Side,Social Media,Morning,1
+3877,5501,User5501,28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+3886,1113,User1113,60.0,Non-Binary,Desktop,Bottom,Social Media,Morning,0
+3893,2239,User2239,25.0,Female,Tablet,Bottom,Education,Morning,1
+3899,9990,User9990,25.0,Male,Desktop,Side,Education,Night,1
+3919,9457,User9457,31.0,Female,Tablet,Side,Education,Evening,0
+3924,1197,User1197,62.0,Male,Mobile,Top,Social Media,Night,1
+3930,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+3945,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+3969,6193,User6193,29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+3973,5395,User5395,52.0,Female,Desktop,Bottom,Education,Afternoon,0
+3978,4103,User4103,21.0,Non-Binary,Desktop,Bottom,News,Night,0
+4028,7511,User7511,31.0,Female,Desktop,Side,Shopping,Night,1
+4063,4230,User4230,35.0,Female,Tablet,Top,Education,Evening,1
+4075,6957,User6957,36.0,Female,Desktop,Top,Education,Morning,0
+4089,7229,User7229,43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+4105,3236,User3236,56.0,Female,Mobile,Bottom,Education,Morning,1
+4109,9206,User9206,25.0,Male,Mobile,Side,Entertainment,Morning,0
+4121,8789,User8789,44.0,Female,Desktop,Top,Entertainment,Evening,1
+4133,8373,User8373,29.0,Male,Desktop,Side,Shopping,Afternoon,1
+4148,293,User293,35.0,Non-Binary,Desktop,Side,Social Media,Morning,0
+4157,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+4159,5501,User5501,28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+4160,7961,User7961,64.0,Female,Mobile,Side,Shopping,Evening,0
+4174,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+4175,2370,User2370,54.0,Non-Binary,Tablet,Bottom,Education,Evening,0
+4177,6288,User6288,61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+4179,2309,User2309,22.0,Male,Tablet,Bottom,Entertainment,Night,1
+4191,6193,User6193,29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+4193,7097,User7097,28.0,Female,Tablet,Side,Shopping,Morning,0
+4227,141,User141,58.0,Male,Tablet,Side,Education,Night,0
+4233,5182,User5182,43.0,Non-Binary,Mobile,Bottom,Entertainment,Afternoon,0
+4252,1586,User1586,38.0,Non-Binary,Desktop,Top,Shopping,Night,1
+4267,9766,User9766,31.0,Male,Desktop,Bottom,Shopping,Evening,1
+4271,1529,User1529,20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+4313,188,User188,56.0,Female,Tablet,Bottom,News,Morning,1
+4324,1910,User1910,63.0,Male,Desktop,Side,Social Media,Night,1
+4327,6167,User6167,20.0,Male,Mobile,Side,Shopping,Night,1
+4348,5295,User5295,56.0,Non-Binary,Desktop,Side,Shopping,Night,0
+4371,9775,User9775,31.0,Female,Tablet,Side,Shopping,Afternoon,0
+4383,9833,User9833,34.0,Female,Desktop,Side,Social Media,Night,0
+4390,6620,User6620,52.0,Female,Tablet,Top,Education,Morning,1
+4404,1945,User1945,20.0,Female,Tablet,Side,Entertainment,Night,1
+4420,301,User301,59.0,Male,Tablet,Side,Social Media,Evening,1
+4449,373,User373,34.0,Female,Mobile,Top,Education,Evening,1
+4450,8095,User8095,22.0,Female,Tablet,Side,Entertainment,Afternoon,0
+4483,6620,User6620,52.0,Female,Tablet,Top,Education,Morning,1
+4491,2964,User2964,40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+4506,2309,User2309,22.0,Male,Tablet,Bottom,Entertainment,Night,1
+4507,4035,User4035,22.0,Female,Tablet,Top,Education,Morning,0
+4508,8928,User8928,39.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+4509,1975,User1975,30.0,Female,Mobile,Top,Social Media,Morning,1
+4510,5193,User5193,50.0,Female,Desktop,Side,Education,Afternoon,1
+4526,1914,User1914,42.0,Male,Tablet,Bottom,Shopping,Night,1
+4559,2337,User2337,40.0,Male,Desktop,Top,Entertainment,Evening,1
+4582,7063,User7063,51.0,Female,Mobile,Top,News,Evening,0
+4595,1269,User1269,36.0,Male,Mobile,Bottom,Social Media,Night,0
+4597,1677,User1677,38.0,Non-Binary,Desktop,Bottom,News,Night,0
+4617,8253,User8253,57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+4620,986,User986,46.0,Male,Mobile,Top,Education,Afternoon,0
+4621,5082,User5082,44.0,Female,Mobile,Top,Shopping,Afternoon,1
+4626,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+4633,5193,User5193,50.0,Female,Desktop,Side,Education,Afternoon,1
+4643,2913,User2913,57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+4645,7475,User7475,53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+4647,8459,User8459,38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+4648,1051,User1051,43.0,Female,Tablet,Bottom,Shopping,Night,0
+4650,8097,User8097,30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+4667,4361,User4361,29.0,Male,Tablet,Side,Education,Afternoon,1
+4683,5912,User5912,41.0,Non-Binary,Mobile,Side,Education,Night,1
+4692,6251,User6251,44.0,Non-Binary,Mobile,Side,Shopping,Morning,1
+4701,5055,User5055,45.0,Male,Desktop,Top,Education,Morning,1
+4715,5925,User5925,45.0,Male,Mobile,Bottom,Education,Afternoon,0
+4716,4556,User4556,29.0,Male,Mobile,Side,Entertainment,Afternoon,0
+4731,5766,User5766,63.0,Male,Desktop,Side,Social Media,Evening,1
+4733,1704,User1704,61.0,Female,Tablet,Bottom,Shopping,Evening,1
+4734,234,User234,19.0,Female,Tablet,Bottom,Social Media,Morning,1
+4763,175,User175,24.0,Female,Desktop,Side,News,Afternoon,0
+4783,858,User858,49.0,Non-Binary,Tablet,Side,Social Media,Afternoon,0
+4786,8097,User8097,30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+4788,2309,User2309,22.0,Male,Tablet,Bottom,Entertainment,Night,1
+4828,8789,User8789,44.0,Female,Desktop,Top,Entertainment,Evening,1
+4836,9990,User9990,25.0,Male,Desktop,Side,Education,Night,1
+4837,2297,User2297,57.0,Male,Tablet,Side,Education,Morning,1
+4846,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+4851,9753,User9753,46.0,Male,Tablet,Top,Entertainment,Night,1
+4855,4639,User4639,32.0,Female,Mobile,Side,Education,Night,0
+4860,3375,User3375,52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+4863,3230,User3230,45.0,Male,Mobile,Top,Entertainment,Morning,0
+4867,1566,User1566,56.0,Non-Binary,Mobile,Side,News,Morning,0
+4874,8550,User8550,29.0,Female,Desktop,Top,Social Media,Morning,0
+4878,4034,User4034,43.0,Female,Desktop,Top,Shopping,Night,1
+4882,7229,User7229,43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+4887,9902,User9902,61.0,Female,Mobile,Side,Entertainment,Night,0
+4894,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+4897,3473,User3473,40.0,Female,Desktop,Bottom,News,Night,0
+4902,8783,User8783,46.0,Female,Desktop,Top,Entertainment,Morning,0
+4909,7268,User7268,28.0,Female,Desktop,Bottom,News,Evening,1
+4912,3062,User3062,34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+4921,8361,User8361,41.0,Female,Mobile,Side,News,Afternoon,1
+4926,6724,User6724,37.0,Female,Desktop,Top,Entertainment,Evening,1
+4934,1214,User1214,26.0,Female,Mobile,Bottom,News,Evening,1
+4951,1631,User1631,53.0,Non-Binary,Mobile,Side,Shopping,Evening,0
+4954,9766,User9766,31.0,Male,Desktop,Bottom,Shopping,Evening,1
+4960,6811,User6811,24.0,Male,Mobile,Bottom,Education,Evening,1
+4976,5329,User5329,54.0,Male,Tablet,Side,Education,Evening,1
+4986,9204,User9204,42.0,Female,Mobile,Bottom,Shopping,Afternoon,0
+4993,5418,User5418,34.0,Male,Mobile,Top,Entertainment,Evening,1
+4998,8965,User8965,25.0,Female,Mobile,Bottom,Social Media,Evening,1
+5003,5690,User5690,34.0,Male,Tablet,Side,Shopping,Morning,0
+5006,4845,User4845,57.0,Female,Desktop,Bottom,Social Media,Afternoon,0
+5033,301,User301,59.0,Male,Tablet,Side,Social Media,Evening,1
+5036,7942,User7942,29.0,Male,Tablet,Top,Education,Night,0
+5081,3966,User3966,28.0,Male,Tablet,Top,Shopping,Night,0
+5089,4348,User4348,62.0,Female,Desktop,Top,Shopping,Afternoon,1
+5121,7712,User7712,49.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+5131,1911,User1911,23.0,Non-Binary,Tablet,Side,Entertainment,Morning,0
+5145,2470,User2470,20.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+5158,4336,User4336,38.0,Female,Desktop,Top,Education,Night,0
+5159,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+5187,8326,User8326,23.0,Female,Desktop,Bottom,Entertainment,Evening,1
+5210,6056,User6056,40.0,Non-Binary,Mobile,Top,News,Night,0
+5212,8595,User8595,62.0,Non-Binary,Mobile,Bottom,Social Media,Night,0
+5228,1908,User1908,26.0,Male,Mobile,Bottom,Education,Evening,1
+5235,6251,User6251,44.0,Non-Binary,Mobile,Side,Shopping,Morning,1
+5249,2913,User2913,57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+5259,6237,User6237,32.0,Non-Binary,Mobile,Top,News,Morning,1
+5267,7674,User7674,43.0,Female,Tablet,Bottom,News,Afternoon,1
+5270,4756,User4756,59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+5290,2485,User2485,57.0,Non-Binary,Mobile,Bottom,News,Night,1
+5293,6679,User6679,26.0,Male,Tablet,Bottom,Entertainment,Night,1
+5314,2542,User2542,58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+5317,6620,User6620,52.0,Female,Tablet,Top,Education,Morning,1
+5327,3412,User3412,20.0,Non-Binary,Desktop,Top,Social Media,Morning,0
+5330,8947,User8947,22.0,Male,Desktop,Bottom,Entertainment,Night,1
+5333,2485,User2485,57.0,Non-Binary,Mobile,Bottom,News,Night,1
+5341,7185,User7185,63.0,Female,Desktop,Side,Entertainment,Evening,0
+5346,6838,User6838,54.0,Non-Binary,Tablet,Top,Shopping,Morning,0
+5348,6596,User6596,24.0,Male,Desktop,Top,Shopping,Evening,0
+5358,7268,User7268,28.0,Female,Desktop,Bottom,News,Evening,1
+5368,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+5375,3345,User3345,39.0,Male,Desktop,Side,Social Media,Night,1
+5384,9261,User9261,25.0,Male,Mobile,Bottom,News,Night,0
+5404,6401,User6401,45.0,Female,Mobile,Side,Social Media,Morning,1
+5422,8965,User8965,25.0,Female,Mobile,Bottom,Social Media,Evening,1
+5423,8028,User8028,53.0,Male,Desktop,Bottom,Social Media,Evening,0
+5430,5055,User5055,45.0,Male,Desktop,Top,Education,Morning,1
+5447,3037,User3037,36.0,Male,Mobile,Side,Shopping,Morning,1
+5455,3846,User3846,38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+5462,3747,User3747,58.0,Non-Binary,Desktop,Bottom,Social Media,Night,0
+5464,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+5477,3345,User3345,39.0,Male,Desktop,Side,Social Media,Night,1
+5478,7475,User7475,53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+5488,4321,User4321,55.0,Male,Desktop,Bottom,Shopping,Afternoon,0
+5503,3044,User3044,34.0,Male,Desktop,Top,News,Night,1
+5527,4976,User4976,34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+5534,6693,User6693,51.0,Male,Mobile,Bottom,Social Media,Evening,0
+5546,7973,User7973,28.0,Female,Mobile,Bottom,Shopping,Morning,1
+5547,188,User188,56.0,Female,Tablet,Bottom,News,Morning,1
+5577,7168,User7168,38.0,Female,Desktop,Top,Entertainment,Evening,0
+5583,6679,User6679,26.0,Male,Tablet,Bottom,Entertainment,Night,1
+5585,3982,User3982,22.0,Female,Tablet,Bottom,Education,Morning,0
+5592,3236,User3236,56.0,Female,Mobile,Bottom,Education,Morning,1
+5600,9418,User9418,20.0,Male,Tablet,Side,News,Night,1
+5614,2122,User2122,62.0,Non-Binary,Tablet,Side,Shopping,Night,0
+5628,3375,User3375,52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+5633,1721,User1721,34.0,Non-Binary,Mobile,Bottom,Social Media,Afternoon,1
+5634,8115,User8115,20.0,Female,Mobile,Top,Social Media,Afternoon,1
+5660,5005,User5005,49.0,Male,Desktop,Top,Shopping,Morning,1
+5662,4029,User4029,21.0,Female,Desktop,Side,News,Afternoon,1
+5670,1410,User1410,19.0,Female,Desktop,Top,Shopping,Evening,0
+5697,1975,User1975,30.0,Female,Mobile,Top,Social Media,Morning,1
+5701,2602,User2602,61.0,Female,Desktop,Side,Shopping,Afternoon,1
+5717,3144,User3144,24.0,Male,Desktop,Side,Shopping,Morning,1
+5725,498,User498,32.0,Non-Binary,Desktop,Bottom,News,Night,0
+5729,7438,User7438,53.0,Non-Binary,Mobile,Side,News,Morning,1
+5753,4593,User4593,54.0,Male,Desktop,Side,News,Evening,0
+5771,7630,User7630,23.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+5778,470,User470,24.0,Male,Mobile,Side,News,Evening,0
+5783,3463,User3463,25.0,Female,Tablet,Bottom,Education,Morning,0
+5784,5418,User5418,34.0,Male,Mobile,Top,Entertainment,Evening,1
+5813,277,User277,59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+5841,8253,User8253,57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+5875,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+5879,6412,User6412,46.0,Male,Desktop,Top,Social Media,Night,0
+5896,4230,User4230,35.0,Female,Tablet,Top,Education,Evening,1
+5904,3245,User3245,40.0,Male,Desktop,Side,Shopping,Afternoon,1
+5923,5110,User5110,44.0,Female,Tablet,Top,Shopping,Morning,1
+5924,5055,User5055,45.0,Male,Desktop,Top,Education,Morning,1
+5927,6129,User6129,36.0,Male,Tablet,Bottom,Shopping,Evening,1
+5943,8761,User8761,43.0,Male,Desktop,Bottom,Education,Afternoon,0
+5947,9603,User9603,28.0,Non-Binary,Tablet,Bottom,Education,Afternoon,0
+5952,5912,User5912,41.0,Non-Binary,Mobile,Side,Education,Night,1
+5971,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+5980,2083,User2083,60.0,Female,Desktop,Top,News,Afternoon,0
+5996,39,User39,27.0,Non-Binary,Tablet,Top,Education,Evening,0
+6004,5346,User5346,30.0,Non-Binary,Tablet,Top,News,Morning,1
+6013,9399,User9399,37.0,Male,Desktop,Bottom,Entertainment,Evening,0
+6034,7438,User7438,53.0,Non-Binary,Mobile,Side,News,Morning,1
+6036,4938,User4938,28.0,Male,Desktop,Side,Social Media,Evening,1
+6056,6167,User6167,20.0,Male,Mobile,Side,Shopping,Night,1
+6059,6075,User6075,32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+6065,5082,User5082,44.0,Female,Mobile,Top,Shopping,Afternoon,1
+6085,1935,User1935,30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+6087,8903,User8903,24.0,Male,Tablet,Side,Social Media,Evening,0
+6090,8947,User8947,22.0,Male,Desktop,Bottom,Entertainment,Night,1
+6110,8994,User8994,34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+6133,7973,User7973,28.0,Female,Mobile,Bottom,Shopping,Morning,1
+6140,1420,User1420,62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+6143,9708,User9708,38.0,Male,Tablet,Side,Shopping,Night,0
+6166,9807,User9807,35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+6197,6181,User6181,54.0,Male,Tablet,Top,Education,Night,0
+6202,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+6203,9666,User9666,63.0,Non-Binary,Desktop,Side,Education,Night,0
+6204,7356,User7356,41.0,Male,Tablet,Side,Shopping,Night,0
+6210,4890,User4890,43.0,Male,Tablet,Bottom,Education,Afternoon,1
+6221,1197,User1197,62.0,Male,Mobile,Top,Social Media,Night,1
+6230,6217,User6217,48.0,Non-Binary,Tablet,Side,Entertainment,Evening,0
+6234,188,User188,56.0,Female,Tablet,Bottom,News,Morning,1
+6257,3378,User3378,53.0,Non-Binary,Desktop,Top,Shopping,Afternoon,0
+6266,6576,User6576,62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+6268,6737,User6737,60.0,Female,Mobile,Bottom,Education,Evening,0
+6286,8079,User8079,62.0,Non-Binary,Tablet,Side,Social Media,Afternoon,0
+6300,6620,User6620,52.0,Female,Tablet,Top,Education,Morning,1
+6311,5890,User5890,56.0,Female,Mobile,Bottom,News,Night,1
+6313,301,User301,59.0,Male,Tablet,Side,Social Media,Evening,1
+6314,2594,User2594,29.0,Male,Mobile,Side,Shopping,Evening,0
+6345,5418,User5418,34.0,Male,Mobile,Top,Entertainment,Evening,1
+6350,8097,User8097,30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+6353,1383,User1383,27.0,Female,Desktop,Top,Entertainment,Night,0
+6354,2542,User2542,58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+6356,389,User389,31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+6360,8531,User8531,54.0,Female,Tablet,Bottom,Education,Morning,0
+6374,158,User158,61.0,Non-Binary,Desktop,Bottom,Education,Evening,0
+6418,6288,User6288,61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+6440,5346,User5346,30.0,Non-Binary,Tablet,Top,News,Morning,1
+6451,8930,User8930,24.0,Non-Binary,Desktop,Top,Shopping,Night,0
+6455,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+6460,5937,User5937,18.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+6478,8817,User8817,53.0,Male,Tablet,Bottom,Education,Night,1
+6492,301,User301,59.0,Male,Tablet,Side,Social Media,Evening,1
+6532,2979,User2979,33.0,Male,Desktop,Side,Education,Morning,0
+6538,7674,User7674,43.0,Female,Tablet,Bottom,News,Afternoon,1
+6547,6811,User6811,24.0,Male,Mobile,Bottom,Education,Evening,1
+6554,664,User664,51.0,Female,Desktop,Bottom,Education,Evening,0
+6608,8053,User8053,31.0,Non-Binary,Tablet,Top,Shopping,Evening,0
+6620,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+6621,2174,User2174,36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+6633,4957,User4957,58.0,Male,Desktop,Bottom,Social Media,Evening,1
+6638,6822,User6822,34.0,Male,Desktop,Bottom,Social Media,Afternoon,0
+6643,9064,User9064,41.0,Female,Mobile,Top,Entertainment,Night,1
+6657,6576,User6576,62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+6707,1253,User1253,36.0,Female,Desktop,Bottom,Shopping,Morning,1
+6769,5346,User5346,30.0,Non-Binary,Tablet,Top,News,Morning,1
+6791,8817,User8817,53.0,Male,Tablet,Bottom,Education,Night,1
+6800,7688,User7688,57.0,Male,Mobile,Top,News,Evening,1
+6802,2021,User2021,41.0,Male,Mobile,Bottom,Social Media,Night,1
+6808,2962,User2962,49.0,Non-Binary,Desktop,Top,News,Night,0
+6828,9990,User9990,25.0,Male,Desktop,Side,Education,Night,1
+6829,3552,User3552,37.0,Male,Desktop,Bottom,Social Media,Afternoon,0
+6836,3101,User3101,22.0,Male,Desktop,Side,Shopping,Morning,0
+6837,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+6844,518,User518,29.0,Male,Tablet,Bottom,Shopping,Morning,1
+6848,3245,User3245,40.0,Male,Desktop,Side,Shopping,Afternoon,1
+6851,6620,User6620,52.0,Female,Tablet,Top,Education,Morning,1
+6858,5807,User5807,41.0,Male,Desktop,Side,News,Afternoon,0
+6866,1505,User1505,18.0,Male,Desktop,Top,Shopping,Night,0
+6897,7138,User7138,26.0,Male,Tablet,Top,Social Media,Night,1
+6900,58,User58,36.0,Female,Mobile,Top,Shopping,Morning,1
+6908,6582,User6582,28.0,Non-Binary,Mobile,Top,Entertainment,Night,0
+6912,6127,User6127,34.0,Non-Binary,Desktop,Side,News,Afternoon,0
+6928,5110,User5110,44.0,Female,Tablet,Top,Shopping,Morning,1
+6943,8994,User8994,34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+6961,3517,User3517,18.0,Non-Binary,Tablet,Bottom,Entertainment,Night,0
+6965,4676,User4676,21.0,Non-Binary,Mobile,Side,Education,Night,0
+6975,1387,User1387,61.0,Male,Mobile,Top,Education,Morning,0
+7003,2573,User2573,27.0,Male,Mobile,Side,Education,Morning,0
+7018,2309,User2309,22.0,Male,Tablet,Bottom,Entertainment,Night,1
+7021,5198,User5198,47.0,Male,Desktop,Bottom,Education,Night,1
+7025,1257,User1257,24.0,Female,Desktop,Top,Social Media,Morning,0
+7033,8994,User8994,34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+7051,3299,User3299,44.0,Non-Binary,Tablet,Side,News,Evening,1
+7068,2934,User2934,26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+7111,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+7123,2440,User2440,37.0,Female,Desktop,Top,Entertainment,Morning,0
+7149,854,User854,60.0,Female,Tablet,Bottom,News,Evening,0
+7178,1227,User1227,59.0,Non-Binary,Tablet,Top,Education,Evening,0
+7194,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+7200,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+7208,4976,User4976,34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+7220,1914,User1914,42.0,Male,Tablet,Bottom,Shopping,Night,1
+7319,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+7320,3111,User3111,27.0,Female,Desktop,Bottom,Entertainment,Afternoon,0
+7324,9117,User9117,43.0,Male,Mobile,Side,News,Morning,0
+7351,6530,User6530,33.0,Female,Mobile,Bottom,News,Night,0
+7356,3335,User3335,24.0,Male,Mobile,Top,Entertainment,Night,1
+7366,6075,User6075,32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+7370,3062,User3062,34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+7390,7138,User7138,26.0,Male,Tablet,Top,Social Media,Night,1
+7392,9064,User9064,41.0,Female,Mobile,Top,Entertainment,Night,1
+7404,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+7409,4200,User4200,54.0,Non-Binary,Mobile,Bottom,News,Evening,0
+7428,6167,User6167,20.0,Male,Mobile,Side,Shopping,Night,1
+7454,1975,User1975,30.0,Female,Mobile,Top,Social Media,Morning,1
+7479,1635,User1635,54.0,Female,Tablet,Top,News,Evening,1
+7491,7688,User7688,57.0,Male,Mobile,Top,News,Evening,1
+7511,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+7522,2876,User2876,23.0,Non-Binary,Tablet,Top,Education,Morning,1
+7528,1529,User1529,20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+7533,7138,User7138,26.0,Male,Tablet,Top,Social Media,Night,1
+7536,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+7557,8243,User8243,24.0,Non-Binary,Desktop,Bottom,Shopping,Afternoon,0
+7584,6095,User6095,52.0,Male,Desktop,Top,News,Morning,0
+7587,9414,User9414,60.0,Non-Binary,Desktop,Top,Social Media,Night,0
+7596,3330,User3330,49.0,Male,Desktop,Top,News,Afternoon,1
+7604,1635,User1635,54.0,Female,Tablet,Top,News,Evening,1
+7606,9766,User9766,31.0,Male,Desktop,Bottom,Shopping,Evening,1
+7608,8459,User8459,38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+7633,5019,User5019,49.0,Non-Binary,Desktop,Bottom,News,Morning,0
+7640,1762,User1762,41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+7641,5329,User5329,54.0,Male,Tablet,Side,Education,Evening,1
+7646,2215,User2215,33.0,Female,Tablet,Top,Social Media,Night,0
+7650,2303,User2303,64.0,Male,Tablet,Bottom,News,Afternoon,0
+7660,8530,User8530,52.0,Female,Mobile,Top,Social Media,Afternoon,1
+7662,6288,User6288,61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+7680,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+7693,6051,User6051,18.0,Female,Tablet,Side,News,Morning,0
+7698,4230,User4230,35.0,Female,Tablet,Top,Education,Evening,1
+7709,234,User234,19.0,Female,Tablet,Bottom,Social Media,Morning,1
+7717,3037,User3037,36.0,Male,Mobile,Side,Shopping,Morning,1
+7733,5194,User5194,53.0,Male,Mobile,Top,News,Afternoon,1
+7739,3345,User3345,39.0,Male,Desktop,Side,Social Media,Night,1
+7747,375,User375,26.0,Non-Binary,Mobile,Top,Social Media,Evening,1
+7758,2142,User2142,34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+7769,3037,User3037,36.0,Male,Mobile,Side,Shopping,Morning,1
+7780,9064,User9064,41.0,Female,Mobile,Top,Entertainment,Night,1
+7786,5627,User5627,22.0,Male,Mobile,Bottom,Social Media,Morning,0
+7793,2542,User2542,58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+7797,1422,User1422,59.0,Female,Mobile,Side,Social Media,Night,0
+7824,4529,User4529,55.0,Female,Tablet,Side,News,Afternoon,0
+7872,6129,User6129,36.0,Male,Tablet,Bottom,Shopping,Evening,1
+7882,9418,User9418,20.0,Male,Tablet,Side,News,Night,1
+7887,5648,User5648,39.0,Male,Desktop,Top,Social Media,Night,0
+7890,2142,User2142,34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+7896,150,User150,47.0,Non-Binary,Tablet,Bottom,Social Media,Evening,0
+7905,5420,User5420,39.0,Male,Mobile,Bottom,Education,Morning,1
+7920,5501,User5501,28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+7928,4517,User4517,35.0,Female,Desktop,Side,Shopping,Evening,0
+7931,7980,User7980,32.0,Female,Mobile,Bottom,Shopping,Evening,0
+7948,301,User301,59.0,Male,Tablet,Side,Social Media,Evening,1
+7972,3299,User3299,44.0,Non-Binary,Tablet,Side,News,Evening,1
+7983,4756,User4756,59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+7987,5467,User5467,25.0,Female,Mobile,Top,Social Media,Evening,0
+7988,3846,User3846,38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+7999,9651,User9651,33.0,Non-Binary,Tablet,Top,Entertainment,Evening,0
+8002,6237,User6237,32.0,Non-Binary,Mobile,Top,News,Morning,1
+8025,9483,User9483,63.0,Female,Desktop,Side,Shopping,Evening,0
+8036,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+8053,4230,User4230,35.0,Female,Tablet,Top,Education,Evening,1
+8064,4631,User4631,39.0,Male,Mobile,Side,Entertainment,Night,0
+8067,7019,User7019,56.0,Female,Mobile,Bottom,Social Media,Afternoon,0
+8079,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+8081,6311,User6311,28.0,Female,Mobile,Top,Education,Evening,0
+8145,6610,User6610,40.0,Non-Binary,Tablet,Side,News,Morning,0
+8163,7670,User7670,54.0,Female,Tablet,Top,Education,Night,1
+8179,4790,User4790,36.0,Non-Binary,Desktop,Bottom,Shopping,Night,0
+8189,5611,User5611,32.0,Female,Desktop,Side,News,Afternoon,0
+8193,6891,User6891,48.0,Non-Binary,Mobile,Top,News,Morning,0
+8199,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+8201,4890,User4890,43.0,Male,Tablet,Bottom,Education,Afternoon,1
+8258,2992,User2992,42.0,Male,Tablet,Top,Education,Night,0
+8259,18,User18,32.0,Female,Mobile,Side,Shopping,Evening,0
+8265,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+8284,6992,User6992,30.0,Female,Tablet,Side,News,Morning,0
+8288,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+8295,9846,User9846,27.0,Female,Tablet,Top,Shopping,Night,0
+8297,4663,User4663,50.0,Male,Tablet,Bottom,Entertainment,Morning,0
+8300,3948,User3948,21.0,Female,Mobile,Bottom,Entertainment,Evening,0
+8338,8253,User8253,57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+8361,2913,User2913,57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+8396,6018,User6018,64.0,Female,Mobile,Top,Entertainment,Afternoon,0
+8424,4938,User4938,28.0,Male,Desktop,Side,Social Media,Evening,1
+8460,316,User316,42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+8465,4361,User4361,29.0,Male,Tablet,Side,Education,Afternoon,1
+8469,3299,User3299,44.0,Non-Binary,Tablet,Side,News,Evening,1
+8472,4503,User4503,52.0,Female,Desktop,Side,Education,Morning,0
+8478,4938,User4938,28.0,Male,Desktop,Side,Social Media,Evening,1
+8486,1770,User1770,51.0,Female,Mobile,Top,News,Evening,0
+8507,911,User911,32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+8538,4181,User4181,59.0,Female,Tablet,Bottom,Entertainment,Morning,0
+8547,5804,User5804,27.0,Female,Desktop,Top,News,Night,0
+8549,7674,User7674,43.0,Female,Tablet,Bottom,News,Afternoon,1
+8559,2400,User2400,39.0,Non-Binary,Tablet,Top,News,Evening,0
+8580,7542,User7542,42.0,Non-Binary,Tablet,Bottom,Social Media,Evening,0
+8593,2637,User2637,20.0,Non-Binary,Mobile,Top,Education,Night,0
+8633,1935,User1935,30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+8669,9842,User9842,43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+8671,7973,User7973,28.0,Female,Mobile,Bottom,Shopping,Morning,1
+8676,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+8677,3339,User3339,43.0,Male,Desktop,Bottom,Shopping,Evening,0
+8690,6700,User6700,32.0,Female,Mobile,Side,Entertainment,Night,0
+8718,2934,User2934,26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+8725,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+8739,277,User277,59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+8753,5756,User5756,51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+8758,7198,User7198,42.0,Male,Tablet,Bottom,Shopping,Afternoon,0
+8771,58,User58,36.0,Female,Mobile,Top,Shopping,Morning,1
+8773,9807,User9807,35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+8801,8082,User8082,34.0,Non-Binary,Tablet,Side,News,Evening,0
+8805,5766,User5766,63.0,Male,Desktop,Side,Social Media,Evening,1
+8812,9888,User9888,49.0,Male,Mobile,Top,News,Morning,1
+8815,2876,User2876,23.0,Non-Binary,Tablet,Top,Education,Morning,1
+8841,6811,User6811,24.0,Male,Mobile,Bottom,Education,Evening,1
+8847,2142,User2142,34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+8859,5912,User5912,41.0,Non-Binary,Mobile,Side,Education,Night,1
+8860,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+8887,5890,User5890,56.0,Female,Mobile,Bottom,News,Night,1
+8901,8726,User8726,62.0,Female,Desktop,Side,Education,Morning,1
+8915,6247,User6247,27.0,Female,Mobile,Top,News,Night,0
+8949,6740,User6740,58.0,Non-Binary,Desktop,Side,News,Night,0
+8969,8146,User8146,52.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+8972,3062,User3062,34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+9022,5607,User5607,50.0,Non-Binary,Tablet,Top,Education,Morning,0
+9023,3808,User3808,24.0,Female,Mobile,Side,Social Media,Morning,0
+9053,1704,User1704,61.0,Female,Tablet,Bottom,Shopping,Evening,1
+9063,6129,User6129,36.0,Male,Tablet,Bottom,Shopping,Evening,1
+9066,509,User509,59.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+9116,5776,User5776,59.0,Non-Binary,Mobile,Top,News,Night,0
+9140,5531,User5531,34.0,Male,Desktop,Top,News,Night,1
+9162,6193,User6193,29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+9167,2957,User2957,29.0,Male,Mobile,Bottom,Entertainment,Afternoon,0
+9177,701,User701,54.0,Male,Desktop,Side,Entertainment,Afternoon,0
+9183,8947,User8947,22.0,Male,Desktop,Bottom,Entertainment,Night,1
+9200,1285,User1285,57.0,Male,Tablet,Bottom,Social Media,Evening,0
+9211,8361,User8361,41.0,Female,Mobile,Side,News,Afternoon,1
+9215,8373,User8373,29.0,Male,Desktop,Side,Shopping,Afternoon,1
+9225,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+9265,2098,User2098,58.0,Male,Tablet,Top,Social Media,Night,0
+9266,9898,User9898,48.0,Male,Tablet,Bottom,Entertainment,Evening,0
+9268,3846,User3846,38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+9287,3139,User3139,62.0,Female,Mobile,Top,Shopping,Afternoon,0
+9309,5420,User5420,39.0,Male,Mobile,Bottom,Education,Morning,1
+9327,4756,User4756,59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+9335,7688,User7688,57.0,Male,Mobile,Top,News,Evening,1
+9336,7674,User7674,43.0,Female,Tablet,Bottom,News,Afternoon,1
+9339,2173,User2173,52.0,Male,Mobile,Bottom,Shopping,Night,1
+9344,6765,User6765,46.0,Female,Tablet,Side,Entertainment,Morning,1
+9347,5198,User5198,47.0,Male,Desktop,Bottom,Education,Night,1
+9349,1935,User1935,30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+9364,7626,User7626,30.0,Non-Binary,Mobile,Side,Social Media,Night,0
+9371,5796,User5796,46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+9372,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+9421,2803,User2803,56.0,Female,Tablet,Side,Social Media,Night,0
+9428,9766,User9766,31.0,Male,Desktop,Bottom,Shopping,Evening,1
+9438,7475,User7475,53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+9477,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+9500,3236,User3236,56.0,Female,Mobile,Bottom,Education,Morning,1
+9501,1997,User1997,63.0,Non-Binary,Tablet,Side,Education,Evening,0
+9539,2142,User2142,34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+9558,4446,User4446,45.0,Male,Tablet,Bottom,Social Media,Night,0
+9563,389,User389,31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+9570,5110,User5110,44.0,Female,Tablet,Top,Shopping,Morning,1
+9576,7311,User7311,18.0,Female,Desktop,Bottom,News,Night,0
+9579,9220,User9220,21.0,Female,Mobile,Side,Social Media,Night,1
+9596,2602,User2602,61.0,Female,Desktop,Side,Shopping,Afternoon,1
+9611,392,User392,26.0,Male,Mobile,Top,Entertainment,Evening,0
+9615,3430,User3430,61.0,Male,Desktop,Side,Social Media,Morning,1
+9619,3124,User3124,49.0,Female,Desktop,Side,News,Evening,0
+9672,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+9682,7688,User7688,57.0,Male,Mobile,Top,News,Evening,1
+9685,6669,User6669,38.0,Female,Mobile,Side,News,Night,1
+9686,8511,User8511,29.0,Female,Desktop,Side,News,Evening,0
+9691,4230,User4230,35.0,Female,Tablet,Top,Education,Evening,1
+9711,8656,User8656,32.0,Female,Mobile,Bottom,Entertainment,Morning,0
+9714,2320,User2320,53.0,Male,Desktop,Top,Social Media,Morning,0
+9742,1412,User1412,53.0,Male,Desktop,Side,Education,Afternoon,0
+9748,8861,User8861,55.0,Male,Mobile,Top,Social Media,Morning,0
+9792,8807,User8807,22.0,Male,Mobile,Side,Education,Evening,0
+9812,9550,User9550,58.0,Non-Binary,Desktop,Top,Education,Afternoon,1
+9821,440,User440,58.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+9843,2812,User2812,25.0,Male,Tablet,Side,Shopping,Morning,0
+9845,2602,User2602,61.0,Female,Desktop,Side,Shopping,Afternoon,1
+9866,6989,User6989,28.0,Male,Mobile,Bottom,Shopping,Afternoon,1
+9888,5055,User5055,45.0,Male,Desktop,Top,Education,Morning,1
+9904,7267,User7267,20.0,Male,Desktop,Bottom,Shopping,Night,0
+9915,3335,User3335,24.0,Male,Mobile,Top,Entertainment,Night,1
+9917,6075,User6075,32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+9925,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+9926,4620,User4620,43.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+9928,7790,User7790,43.0,Non-Binary,Mobile,Top,Social Media,Morning,0
+9951,7268,User7268,28.0,Female,Desktop,Bottom,News,Evening,1
+9952,5912,User5912,41.0,Non-Binary,Mobile,Side,Education,Night,1
+9960,9638,User9638,64.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+9986,5574,User5574,52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+9999,3056,User3056,44.0,Male,Tablet,Top,Social Media,Morning,0
